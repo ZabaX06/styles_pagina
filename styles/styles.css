@@ -1,0 +1,49 @@
+/*
+Colores de mi sitio web
+primary: #3c00ff
+segundary: #0F6292
+light: #16FF00
+info: #FFED00
+*/
+
+.bg-primary{
+    background-color: #a7911794;
+    border-radius: 40px;
+}
+
+.text-light{
+    color: #000000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.text-center{
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+.text-right{
+    text-align: right;
+}
+.text-segundary{
+    color: #ffffff;
+    font-size: 17px;
+
+}
+.width-100{
+    width: 100px;
+}
+.bg-info{
+    background-color: #91ff008e;
+    font-family: cursive;
+}
+.text-white{
+    color: rgb(19, 17, 17);
+    border-radius: 40px;
+}
+.bg-segundary{
+    color: rgba(0, 0, 0, 0.568);
+}
+body{
+    background-image: url(https://img.freepik.com/vector-gratis/fondos-negros-degradados-marcos-dorados_23-2149150610.jpg);
+   
+    
+}
